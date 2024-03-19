@@ -1,0 +1,99 @@
+.root {
+  display: flex;
+  width: 100vw;
+  margin: 4vw 0;
+}
+
+.leftBlock {
+  @include mainTextSize;
+  text-align: end;
+
+  width: 20vw;
+  min-width: 20vw;
+  height: auto;
+  padding-right: 1em;
+  padding-left: 0.5em;
+
+  color: $colorBody;
+  border-right: 1px solid $colorText;
+
+  b {
+    width: 100%;
+  }
+}
+
+.description {
+  height: fit-content;
+  color: red;
+}
+
+.middleBlock {
+  @include mainTextSize;
+  width: 45vw;
+  display: flex;
+  flex-direction: column;
+  padding-left: 2em;
+  a {
+    color: red;
+    // align-self: flex-end;
+  }
+}
+
+.rightBlock {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 16px;
+  width: 25vw;
+  img {
+    width: 25vw;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 990px) {
+  .root {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 80vw;
+    margin: 32px auto;
+  }
+
+  .leftBlock,
+  .middleBlock {
+    text-align: start;
+    padding: 0;
+  }
+
+  .leftBlock {
+    width: 100%;
+    border: none;
+    margin-bottom: 8px;
+  }
+
+  .middleBlock {
+    width: 80vw;
+    border-left: 1px solid $colorAccent;
+    padding-left: 8px;
+
+    order: 2;
+    margin-top: 16px;
+
+    .description {
+      width: 100%;
+    }
+  }
+
+  .rightBlock {
+    margin: 16px auto 0 0;
+      width: 80vw;
+
+    img {
+      height: auto;
+      width: 80vw;
+      margin-bottom: 16px;
+    }
+  }
+}

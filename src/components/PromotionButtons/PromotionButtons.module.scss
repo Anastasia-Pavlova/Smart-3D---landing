@@ -1,0 +1,92 @@
+.root {
+  width: 100%;
+}
+.submitButton {
+  position: relative;
+  @include h3Size(1.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  background-color: $colorAccent;
+  color: $colorTextInvert;
+  text-decoration: none;
+  border-radius: 0.5vw;
+  height: 2.2em;
+
+  a {
+    text-decoration: none;
+  }
+
+  svg {
+    height: 2.2em;
+    width: 2.2em;
+    path {
+      fill: white;
+    }
+  }
+}
+
+.oneTime {
+  white-space: wrap;
+  width: 100%;
+
+  @include mainTextSize;
+  color: red;
+  text-align: center;
+}
+
+.smallText {
+  background-color: #f14635;
+  div {
+    @include mainTextSize(1);
+    // font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @media (max-width: 990px) { 
+    a {
+      display: flex;
+
+      div {
+        @include h3Size(0.9);
+      }
+    }
+    @media (max-width: 680px) {
+      a {
+        div {
+          @include h3Size(0.6);
+        }
+      }
+    }
+    @media (max-width: 480px) {
+      a {
+        div {
+          @include h3Size(0.5);
+        }
+      }
+    }
+    @media (max-width: 385px) {
+      a {
+        div {
+          @include mainTextSize(0.7);
+        }
+      }
+    }
+    @media (max-width: 310px) {
+      a {
+        div {
+          @include mainTextSize(0.6);
+        }
+      }
+    }
+  }
+
+  .oneTime {
+    color: #f14635;
+  }
+}

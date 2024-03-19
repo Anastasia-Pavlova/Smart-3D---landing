@@ -1,0 +1,14 @@
+.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.divider {
+  margin-top: 4vw;
+  @media (max-width: 990px) {
+    margin-top: 32px;
+  }
+}

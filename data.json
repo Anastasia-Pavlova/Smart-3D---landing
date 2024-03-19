@@ -1,0 +1,412 @@
+{
+  "landing": {
+    "activation": {
+      "phoneTitle": "Стоимость 1-й лицензии 130 $",
+      "phoneDescription": "В мобильное приложение встроен личный промокод партнера, дающий право его клиенту воспользоваться сидкой 10% на всю продукцию.",
+      "chooseNominal": "chooseNominal",
+      "chooseQuantity": "chooseQuantity",
+      "insertEmail": "insertEmail",
+      "keysWillBeSent": "keysWillBeSent",
+      "choosePayment": "choosePayment",
+      "crypto": "crypto",
+      "cryptoFor": "cryptoFor",
+      "contractTitle": "Подпишите договор и получите лицензию на мобильное приложение",
+      "contractDescription": "Лицензия дает право партнеру пользоваться мобильным приложением и зарабатывать с его помощью на 3D ремонте 6 $ за м/кв с максимальной прибылью до 3 600 $ с каждой лицензии. Также партнер имеет право привлечь к продажам посредников, например: строительные фирмы, блогеров, строительные маркеты и разделить с ними свою прибыль 50/50 по 3 $ за м/кв в пределах лимита имеющейся квадратуры.",
+      "appRegistration": {
+        "first": "first",
+        "second": "Партнер также получает: личный сайт, образцы 3D панелей, визитки и рекламные буклеты. А также личный промокод для своих клиентов, который позволяет заказывать 3D продукцию по скидке 10 %",
+        "third": "third"
+      },
+      "agreeFor": "agreeFor",
+      "personalData": "personalData",
+      "buyKey": "buyKey",
+      "onePurchase": "onePurchase"
+    },
+    "advantages": {
+      "title": "Преимущества владения несколькими лицензиями",
+      "description": "Возьмите больше лицензий и приумножьте свой доход",
+      "first": {
+        "title": "Больше лицензий - больше прибыли",
+        "description": "Возьмите больше лицензий и приумножте свой доход",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage1.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "second": {
+        "title": "Лучший подарок",
+        "description": "Подарите лицензию своим близким и родным, например: маме,  жене, мужу или другу",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage2.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "third": {
+        "title": "Продажа компании",
+        "description": "Владелец лицензии (компании) имеет право ее перепродать за любые деньги",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage3.jpg",
+          "WIDTH": "200"
+        }
+      }
+    },
+    "add": {
+      "title": "Запуск большой рекламы",
+      "description": "С 01 мая 2024 года Smart3D Corporation готовит масштабную рекламную компанию на мирой арене для реализации 3D продукции через единую глобальную систему во главе которой стоит партнер. Все продажи будуд осуществляться только через партнеров по их промокоду или через систему МАДС"
+    },
+    "add2": {
+      "title": "Обучение партнеров",
+      "description": "Программа обучения партнеров начнеться 20 апреля в онлайн режиме через zoom. Каждый партнер подписавший договор и получивший лицензию обучиться с профессиональным наставникомпродавать 3D продукцию через приложение с профессиональным наставником"
+    },
+    "appFeatures": {
+      "title": "Что умеет приложение?",
+      "first": {
+        "title": "Умный кошелек",
+        "description": "description"
+      },
+      "second": {
+        "title": "Коммерческие сделки",
+        "description": "description"
+      },
+      "third": {
+        "title": "Design3D Studio",
+        "description": "description"
+      },
+      "fourth": {
+        "title": "Мои финансы",
+        "description": "description"
+      },
+      "fifth": {
+        "title": "3D Маркет",
+        "description": "description"
+      },
+      "sixth": {
+        "title": "Моя команда",
+        "description": "description"
+      }
+    },
+    "earn": {
+      "title": " Зарабатывай в приложении на 3D ремонте от 4 200 $",
+      "description": "description",
+      "first": {
+        "title": "earn Больше лицензий - больше прибыли",
+        "description": "earn Возьмите больше лицензий и приумножте свой доход",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage1.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "second": {
+        "title": "earn Лучший подарок",
+        "description": "earn Подарите лицензию своим близким и родным, например: маме,  жене, мужу или другу",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage2.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "third": {
+        "title": "earn Продажа компании",
+        "description": "earn Владелец лицензии (компании) имеет право ее перепродать за любые деньги",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/advantage3.jpg",
+          "WIDTH": "200"
+        }
+      }
+    },
+    "footer": {
+      "allRights": "allRights"
+    },
+    "how": {
+      "title": "Как получить лицензию?",
+      "description": "Осталось лицензий: 18",
+      "first": "Подпишите договор",
+      "second": "Получите приложение",
+      "third": "Распоряжайся компанией"
+    },
+    "knowMore": {
+      "first": {
+        "title": "title",
+        "description": "description",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/knowMore1.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "second": {
+        "title": "title",
+        "description": "description",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/knowMore2.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "third": {
+        "title": "title",
+        "description": "description",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/knowMore3.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "fourth": {
+        "title": "title",
+        "description": "description",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/knowMore4.jpg",
+          "WIDTH": "200"
+        }
+      }
+    },
+    "mobile": {
+      "title": "Приложение для партнеров Smart3D Company",
+      "description": "Получите лицензию для приложения и станьте партнером Smart3D Corporation. Количество лицензий ограничено: 50 штук",
+      "upperTitle": "upperTitle"
+    },
+    "newBrand": {
+      "title": "Новый бренд - 3D ремонт",
+      "description": "description",
+      "siteLink": {
+        "url": "http://",
+        "title": "title"
+      },
+      "renovation": "3D ремонт",
+      "marketing": "Умный маркетинг",
+      "doors": "3D Двери",
+      "panels": "3D панели",
+      "innovations": "Новации",
+      "sell": "Продай сам",
+      "mads": "МАДС",
+      "partnership": "Партнерская программа"
+    },
+    "newBrandInside": {
+      "image": {
+        "CONTENT_TYPE": "CONTENT_TYPE",
+        "DESCRIPTION": "DESCRIPTION",
+        "HEIGHT": "200",
+        "URL": "/images/newBrandInside.jpg",
+        "WIDTH": "200"
+      },
+      "subTitle": "Хотите заработать на 3D ремонте?",
+      "description": "Компания приглашает к сотрудничеству граждан страны в качестве партнеров и передает им право продавать 3D панели предназначенные для создания 3D ремонта. С каждым партнером компания подписывает договор и обязуется выплачивать 6 $ за каждый проданный м/кв 3D панелей, а также выдает партнеру мобильное приложение с автоматизированной системой реализации придукции. Что такое 3D ремонт? - Запатентованная технология ремонта с применением дизайнерских 3D панелей, которые формируют твердую поверхность с непрерывным рисунком. 3D панели заменяют все строительные материалы для ремонта помещений"
+    },
+    "partnerHave": {
+      "title": "Что получает партнер в приложении?",
+      "storeTitle": "Личный склад и способы заработка",
+      "storeDescription": "storeDescription",
+      "storeImage": {
+        "CONTENT_TYPE": "CONTENT_TYPE",
+        "DESCRIPTION": "DESCRIPTION",
+        "HEIGHT": "200",
+        "URL": "/images/partnerHave.jpg",
+        "WIDTH": "200"
+      }
+    },
+    "partnership": {
+      "title": "Станьте партнером и получите приложение",
+      "description": "Количество ограничено: 50 штук",
+      "wallet": "Умный кошелек",
+      "deals": "Коммерческие сделки",
+      "design": "Design3D Studio",
+      "finance": "Мои финансы",
+      "market": "3D Маркет",
+      "team": "Моя команда"
+    },
+    "products": {
+      "title": "Первые в мире 3D продукты для создания 3D ремонта",
+      "digital": {
+        "title": "Цифровые продукты",
+        "description": "Smart3D Corporation"
+      },
+      "constructor": {
+        "title": "3D конструктор",
+        "description": "Конструктор в смартфоне"
+      },
+      "catalog": {
+        "title": "3D каталог",
+        "description": "Интерактивный каталог"
+      },
+      "chat": {
+        "title": "Мультиязычный чат",
+        "description": "Площадка для коммуникации"
+      },
+
+      "physical": {
+        "title": "Физические продукты",
+        "description": "Smart3D Corporation"
+      },
+
+      "doors": {
+        "title": "3D Двери",
+        "description": "Инновационный декор дверей"
+      },
+      "panels": {
+        "title": "3D панели",
+        "description": "Универсальные дизайн-панели"
+      },
+      "innovations": {
+        "title": "Новации по ремонту",
+        "description": "Единая мировая платформа"
+      },
+      "mobileApps": {
+        "title": "Мобильные приложения",
+        "description": "Smart3D Corporation"
+      },
+      "companyApp": {
+        "title": "Smart3D Company",
+        "description": "Приложение для партнеров"
+      },
+      "designApp": {
+        "title": "Smart3D Design",
+        "description": "Приложение для клиентов"
+      },
+      "distributionApp": {
+        "title": "Smart3D Distribution",
+        "description": "Приложение для дилеров"
+      }
+    },
+    "promotion": {
+      "title": "Генеральный директор Smart3D Corporation прокомментировал новость о запуске партнерской программы и линейки 3D продуктов",
+      "description": "Мне очень приятно представлять новый международный бренд 3D ремонт на нашем рынке. Инновационная 3D продукция для ремонта квартир и домов заменит все строительные материалы которые уже устарели и должны уйти в прошлое. Чтобы 3D продукция стала популярной и принесла пользу каждому гражданину нашей страны - мы объявляем акцию для всех желающих заработать на 3D ремонте и стать партнерами Smart3D Corporation. Акция поможет каждому партнеру в трудное экономическое время заработать приличные деньги и обеспечить себя и свою семью на долгие годы вперед.",
+      "image": {
+        "CONTENT_TYPE": "CONTENT_TYPE",
+        "DESCRIPTION": "DESCRIPTION",
+        "HEIGHT": "200",
+        "URL": "/images/promotion.jpg",
+        "WIDTH": "200"
+      }
+    },
+    "questions": {
+      "title": "Ответы на вопросы",
+      "knowMoreIn": "knowMoreIn",
+      "readAll": "readAll",
+      "becomeAPartner": "becomeAPartner",
+      "0": {
+        "title": "title",
+        "description": "description"
+      },
+      "1": {
+        "title": "title",
+        "description": "description"
+      },
+      "2": {
+        "title": "title",
+        "description": "description"
+      },
+      "3": {
+        "title": "title",
+        "description": "description"
+      },
+      "5": {
+        "title": "title",
+        "description": "description"
+      }
+    },
+    "rights": {
+      "title": "Защита авторских прав",
+      "description": "Smart3D Corporation обладает интеллектуальными правами на всю 3D продукцию согласно международного права. Став партнером Вы получаете право распространять 3D продукцию на рынке, а именно в глобальной сети интернет и на маркетах без ограничений."
+    },
+    "tools": {
+      "title": "Инструменты для работы партнеров",
+      "first": { "title": "Мультиязычный чат", "description": "Позволяет переписываться с клиентами и дилерами с разных стран и городов мира без языковых барьеров" },
+      "second": { "title": "Промокод", "description": "Личный промокод встроен в бэк офис и позволяет приглашать дилеров и клиентов в свою команду" },
+      "third": { "title": "3D конструктор", "description": "Конструктор в смартфоне позволяет бесплатно создавать дизайн помещений и экономить средства на дизайнерах" },
+      "fourth": { "title": "3D каталог", "description": "Интерактивный каталог с тысячами позиций для создания неповторимого интерьера" }
+    },
+    "tools2": {
+      "title": "Запуск рекламы состоится в таких странах",
+      "first": {
+        "title": "Украина",
+        "description": "Запуск масштабной рекламной компании на всю 3D продукцию состоится С 01 мая 2024 года",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/tools2_1.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "second": {
+        "title": "Казахстан",
+        "description": "Запуск масштабной рекламной компании на всю 3D продукцию состоится С 01 июня 2024 года",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/tools2_2.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "third": {
+        "title": "Польша",
+        "description": "Запуск масштабной рекламной компании на всю 3D продукцию состоится С 01 сентября 2025 года",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/tools2_3.jpg",
+          "WIDTH": "200"
+        }
+      },
+      "fourth": {
+        "title": "Эстония",
+        "description": "Запуск масштабной рекламной компании на всю 3D продукцию состоится С 01 февраля 2026 года",
+        "image": {
+          "CONTENT_TYPE": "CONTENT_TYPE",
+          "DESCRIPTION": "DESCRIPTION",
+          "HEIGHT": "200",
+          "URL": "/images/tools2_4.jpg",
+          "WIDTH": "200"
+        }
+      }
+    },
+    "vip": {
+      "title": "Example title vip",
+      "description": "Example description vip",
+      "image": {
+        "CONTENT_TYPE": "CONTENT_TYPE",
+        "DESCRIPTION": "DESCRIPTION",
+        "HEIGHT": "200",
+        "URL": "/images/vip.jpg",
+        "WIDTH": "200"
+      },
+      "button": ""
+    },
+    "videoProd": {
+      "title": "Видео презентация партнерской программы"
+    },
+    "videoProgram": {
+      "title": "Посмотрите видео презентацию продукции"
+    }
+  },
+  "vip": "123456"
+}
